@@ -11,8 +11,8 @@ Usage in English is at the bottom of this page.
 ## 使用方法
 
 1. 以下のアカウントを事前に作成
-  - ランキングデータを取得したい国のAmazonアソシエイトアカウント (e.g. [日本](https://affiliate.amazon.co.jp/))と、Product Advertising APIの利用登録
-  - [Mackerel](https://mackerel.io/)
+    - ランキングデータを取得したい国のAmazonアソシエイトアカウント (e.g. [日本](https://affiliate.amazon.co.jp/))と、Product Advertising APIの利用登録
+    - [Mackerel](https://mackerel.io/)
 
 2. リポジトリをクローン
 
@@ -63,8 +63,8 @@ Usage in English is at the bottom of this page.
 ## Usage
 
 1. Make sure you have accounts for:
-  - Amazon Associates in the country you want to get the ranking data (e.g. [US](https://affiliate-program.amazon.com/)).
-  - [Mackerel](https://mackerel.io/) to post and show the ranking data.
+    - Amazon Associates in the country you want to get the ranking data (e.g. [US](https://affiliate-program.amazon.com/)).
+    - [Mackerel](https://mackerel.io/) to post and show the ranking data.
 
 2. Clone the repository:
 
