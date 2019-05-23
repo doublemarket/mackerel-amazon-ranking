@@ -1,0 +1,11 @@
+amazon_region: "REPLACE-WITH-YOURS"
+amazon_access_key: "REPLACE-WITH-YOURS"
+amazon_access_secret: "REPLACE-WITH-YOURS"
+amazon_account: "REPLACE-WITH-YOURS"
+mackerel_key: "REPLACE-WITH-YOURS"
+metric_prefix: "books.sales"
+asins:
+  - "3950307842" # SQLパフォーマンス詳解
+  - "4873118409" # 入門Kubernetes
+  - "4873118646" # 入門監視
+  - "4873118751" # 分散システムデザインパターン
